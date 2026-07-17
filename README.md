@@ -3,7 +3,7 @@ This project analyzes quarterly coverage trends and potential media bias in the 
 
 By crossing-referencing article text with sentiment data, the project evaluates both the volume of coverage and the emotional framing (positive vs. negative) associated with each topic over time.
 
-Data & Methodology:
+### Data & Methodology:
 - Primary Dataset (data/nyt_articles.txt): Used to isolate target topics and track their mention frequency on a quarterly basis.
 
 - Secondary Dataset (data/nyt_sentiments.csv): Contains pre-evaluated sentiment scores for each article, allowing us to calculate the proportion of positive vs. negative coverage for each topic and identify potential journalistic bias.
