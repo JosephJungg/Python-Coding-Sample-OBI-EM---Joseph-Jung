@@ -18,15 +18,15 @@ Ensure you have Python (version 3.8 or higher) installed on your system.
 ### 2. Clone the Repository
 Clone this repository to your local machine using this git command:
 
-Bash
+```Bash
 git clone https://github.com/JosephJungg/Python-Coding-Sample-OBI-EM---Joseph-Jung.git
-
+```
 ### 3. Install Dependencies
 Install the required external libraries (pandas, numpy, matplotlib, and seaborn) using this git command:
 
-Bash
+```Bash
 pip install -r requirements.txt
-
+```
 ### 4. Launch the Notebook
 
 You can run the notebook using either a standard browser-based Jupyter server or directly inside VS Code.
@@ -35,3 +35,4 @@ You can run the notebook using either a standard browser-based Jupyter server or
 1. Open the project folder in VS Code:
    ```bash
    code .
+```
