@@ -18,7 +18,7 @@ Ensure you have Python (version 3.8 or higher) installed on your system.
 ### 2. Clone the Repository
 Clone this repository to your local machine using this git command:
 
-```
+```Bash
 git clone https://github.com/JosephJungg/Python-Coding-Sample-OBI-EM---Joseph-Jung.git
 ```
 ### 3. Set Up a Virtual Environment (Recommended)
@@ -26,18 +26,18 @@ Creating an isolated virtual environment prevents library version conflicts with
 
 On macOS and Linux:
 
-```
+```Bash
 python3 -m venv env
 ```
-```
+```Bash
 source env/bin/activate
 ```
 On Windows:
 
-```
+```Bash
 python -m venv env
 ```
-```
+```Bash
 .\env\Scripts\activate
 ```
 ### 4. Install Dependencies
