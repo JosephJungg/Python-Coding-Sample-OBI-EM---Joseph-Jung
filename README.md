@@ -1,4 +1,4 @@
-# Project Title: New York Times Article Analysis
+# Project Title: New York Times Analysis
 This project analyzes quarterly coverage trends and potential media bias in the New York Times across three distinct topics: New Year, Zoom Platform, and GPT Models.
 
 By crossing-referencing article text with sentiment data, the project evaluates both the volume of coverage and the emotional framing (positive vs. negative) associated with each topic over time.
