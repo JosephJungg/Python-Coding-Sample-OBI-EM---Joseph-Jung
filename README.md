@@ -3,5 +3,3 @@ This project analyzes how public discourse, media framing, and cultural narrativ
 
 # The Tech Stack: 
 NumPy, Pandas, Matplotlib, Seaborn, RegEx
-
-# How to Run It: 
