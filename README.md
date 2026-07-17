@@ -33,6 +33,12 @@ You can run the notebook using either a standard browser-based Jupyter server or
 
 #### Option A: Run in VS Code (Recommended for IDE users)
 1. Open the project folder in VS Code:
-   ```bash
+```bash
    code .
+```
+Option B: Run in the Browser (Standard Jupyter)
+Start the local Jupyter server:
+
+```Bash
+jupyter notebook
 ```
