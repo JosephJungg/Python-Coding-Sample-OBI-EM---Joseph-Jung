@@ -44,6 +44,9 @@ python -m venv env
 Install the required external libraries (pandas, numpy, matplotlib, and seaborn) using this git command:
 
 ```
+cd New-York-Times-Analysis
+
+```
 pip install -r requirements.txt
 ```
 ### 5. Launch the Notebook
