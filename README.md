@@ -45,6 +45,7 @@ Install the required external libraries (pandas, numpy, matplotlib, and seaborn)
 
 ```
 cd New-York-Times-Analysis
+```
 
 ```
 pip install -r requirements.txt
